@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    box-sizing: border-box;
+    color: white;
+    background-color: blue;
+}
+.text{
+    margin-left: 15px;
+}
